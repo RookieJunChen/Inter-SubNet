@@ -52,7 +52,7 @@ git clone https://github.com/RookieJunChen/Inter-SubNet.git
 cd Inter-SubNet
 ```
 
-Download the [pre-trained checkpoint](https://drive.google.com/file/d/1UJSt1G0P_aXry-u79LLU_l9tCnNa2u7C/view), and input commands:
+Download the [pre-trained checkpoint](https://drive.google.com/file/d/1j9jdXRxPhXLE93XlYppCQtcOqMOJNjdt/view?usp=sharing), and input commands:
 
 ```shell
 source activate speech_enhance
