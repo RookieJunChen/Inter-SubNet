@@ -2,7 +2,7 @@
 
 This Git repository for the official PyTorch implementation of **"Inter-SubNet: Speech Enhancement with Subband Interaction"**,  accepted by ICASSP 2023. (**The paper will be released soon!**)
 
-▶[[Demo](https://rookiejunchen.github.io/Inter-SubNet_demo/)] 💿[[Checkpoint]()]
+▶[[Demo](https://rookiejunchen.github.io/Inter-SubNet_demo/)] 💿[[Checkpoint](https://drive.google.com/file/d/1j9jdXRxPhXLE93XlYppCQtcOqMOJNjdt/view?usp=sharing)]
 
 
 
@@ -143,5 +143,5 @@ Calculating bjective metrics (SI_SDR, STOI, WB_PESQ, NB_PESQ, etc.) :
 bash metrics.sh
 ```
 
-For test set without reference, you can obtain subjective scores (DNS_MOS and  NISQA, etc) through [DNSMOS](https://github.com/RookieJunChen/dns_mos_calculate) and [NISQA](https://github.com/RookieJunChen/my_NISQA).
+For test set without reference, you can obtain subjective scores (DNS_MOS and  NISQA, etc) through [DNSMOS](https://github.com/RookieJunChen/dns_mos_calculate) or [NISQA](https://github.com/RookieJunChen/my_NISQA).
 
