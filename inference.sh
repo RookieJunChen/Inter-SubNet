@@ -3,9 +3,9 @@
 # do enhance(denoise)
 CUDA_VISIBLE_DEVICES='5' python -m speech_enhance.tools.inference \
   -C config/inference.toml \
-  -M /dockerdata/thujunchen/cjcode/ft_local/intersubnet/intersubnet.tar \
-  -I /apdcephfs/share_976139/users/ellenwrao/challenges/SSIC/SSIC_2022/train/DNS_2021/eval/testclips \
-  -O /dockerdata/thujunchen/enhance_data/dns4_testclips/inter_subnet
+  -M /cjcode/ft_local/intersubnet/intersubnet.tar \
+  -I /DNS_2021/eval/testclips \
+  -O /enhance_data/dns4_testclips/inter_subnet
 
 
 # Normalized to -6dB (optional)
