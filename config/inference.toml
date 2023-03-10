@@ -6,7 +6,7 @@ hop_length = 256
 
 
 [inferencer]
-path = "fullsubnet.inferencer.inferencer.Inferencer"
+path = "inter_subnet.inferencer.inferencer.Inferencer"
 type = "full_band_crm_mask"
 
 [inferencer.args]
