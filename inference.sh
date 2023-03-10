@@ -9,8 +9,8 @@ CUDA_VISIBLE_DEVICES='5' python -m speech_enhance.tools.inference \
 
 
 # Normalized to -6dB (optional)
-sdir="/dockerdata/thujunchen/enhance_data/dns4_testclips/inter_subnet"
-fdir="/dockerdata/thujunchen/enhance_data/dns4_testclips/inter_subnet_norm"
+sdir="enhance_data/dns4_testclips/inter_subnet"
+fdir="enhance_data/dns4_testclips/inter_subnet_norm"
 
 softfiles=$(find $sdir -name "*.wav")
 for file in ${softfiles}
