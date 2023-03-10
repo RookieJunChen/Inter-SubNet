@@ -143,5 +143,5 @@ Calculating bjective metrics (SI_SDR, STOI, WB_PESQ, NB_PESQ, etc.) :
 bash metrics.sh
 ```
 
-For test set without reference, you can obtain subjective scores (DNS_MOS and  NISQA, etc) through [DNSMOS](https://github.com/RookieJunChen/dns_mos_calculate) or [NISQA](https://github.com/RookieJunChen/my_NISQA).
+For test set without reference, you can obtain subjective scores (DNS_MOS and  NISQA, etc) through [DNSMOS](https://github.com/RookieJunChen/dns_mos_calculate) and [NISQA](https://github.com/RookieJunChen/my_NISQA).
 
