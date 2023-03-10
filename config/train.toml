@@ -1,6 +1,6 @@
 [meta]
 save_dir = "logs/Inter_SubNet"
-description = "This is a description of FullSubNet experiment."
+description = "This is a description of Inter-SubNet experiment."
 seed = 0  # set random seed for random, numpy, pytorch-gpu and pytorch-cpu
 port = "4396"
 keep_reproducibility = false  # see https://pytorch.org/docs/stable/notes/randomness.html
