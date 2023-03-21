@@ -1,6 +1,6 @@
 # Inter-SubNet
 
-This Git repository for the official PyTorch implementation of **"Inter-SubNet: Speech Enhancement with Subband Interaction"**,  accepted by ICASSP 2023. (**The paper will be released soon!**)
+The official PyTorch implementation of **"Inter-SubNet: Speech Enhancement with Subband Interaction"**,  accepted by ICASSP 2023. (**The paper will be released soon!**)
 
 ▶[[Demo](https://rookiejunchen.github.io/Inter-SubNet_demo/)] 💿[[Checkpoint](https://drive.google.com/file/d/1j9jdXRxPhXLE93XlYppCQtcOqMOJNjdt/view?usp=share_link)]
 
