@@ -137,7 +137,7 @@ bash inference.sh
 
 ### Eval
 
-Calculating bjective metrics (SI_SDR, STOI, WB_PESQ, NB_PESQ, etc.) :
+Calculating objective metrics (SI_SDR, STOI, WB_PESQ, NB_PESQ, etc.) :
 
 ```shell
 bash metrics.sh
