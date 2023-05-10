@@ -1,8 +1,8 @@
 # Inter-SubNet
 
-The official PyTorch implementation of **"Inter-SubNet: Speech Enhancement with Subband Interaction"**,  accepted by ICASSP 2023. (**The paper will be released soon!**)
+The official PyTorch implementation of **"[Inter-SubNet: Speech Enhancement with Subband Interaction](https://arxiv.org/abs/2305.05599)"**,  accepted by ICASSP 2023.
 
-▶[[Demo](https://rookiejunchen.github.io/Inter-SubNet_demo/)] 💿[[Checkpoint](https://drive.google.com/file/d/1j9jdXRxPhXLE93XlYppCQtcOqMOJNjdt/view?usp=share_link)]
+📜[[Full Paper](https://arxiv.org/abs/2305.05599)] ▶[[Demo](https://rookiejunchen.github.io/Inter-SubNet_demo/)] 💿[[Checkpoint](https://drive.google.com/file/d/1j9jdXRxPhXLE93XlYppCQtcOqMOJNjdt/view?usp=share_link)]
 
 
 
