@@ -4,7 +4,6 @@ import time
 from audio_zen.acoustics.feature import mag_phase
 from audio_zen.acoustics.mask import decompress_cIRM
 from audio_zen.inferencer.base_inferencer import BaseInferencer
-from tools.plot_utils import plot_attention_weight
 import soundfile as sf
 import numpy as np
 from tqdm import tqdm
