@@ -145,3 +145,18 @@ bash metrics.sh
 
 For test set without reference, you can obtain subjective scores (DNS_MOS and  NISQA, etc) through [DNSMOS](https://github.com/RookieJunChen/dns_mos_calculate) and [NISQA](https://github.com/RookieJunChen/my_NISQA).
 
+
+
+
+## Citation
+If you find our work useful in your research, please consider citing:
+```
+@inproceedings{chen2023inter,
+  title={Inter-Subnet: Speech Enhancement with Subband Interaction},
+  author={Chen, Jun and Rao, Wei and Wang, Zilin and Lin, Jiuxin and Wu, Zhiyong and Wang, Yannan and Shang, Shidong and Meng, Helen},
+  booktitle={ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  pages={1--5},
+  year={2023},
+  organization={IEEE}
+}
+```
